@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "YuanBian.png"
   name             : "Yuan Bian | 边远"
-  pronouns         :  "he"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "China"
+  pronouns         :  #"he"  
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : #"China"
   employer         : "Hunan University"
   uri              : # URL
   email            : "yuanbian@hnu.edu.cn" 
