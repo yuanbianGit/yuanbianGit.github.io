@@ -15,7 +15,7 @@ description              : "Personal Profile"
 url                      : https://yuanbiangit.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-favicon                  : "favicon.ico"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -29,7 +29,7 @@ author:
   location         : #"China"
   employer         : #"Hunan University | National Engineering Research Center of Robot Visual Perception and Control Technology"
   uri              : # URL
-  email            : "yuanbian@hnu.edu.cn" 
+  email            : "yuanbian AT hnu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
