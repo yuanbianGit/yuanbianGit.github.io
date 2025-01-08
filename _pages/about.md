@@ -14,25 +14,18 @@ Hi. I am currently in the fourth year of my Ph.D. studies at the Hunan Universit
 
 Selected Publications
 ======
-- [__TPAMI 2024__] [Weakly Supervised Tracklet Association Learning With Video Labels for Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/10371780)
+- [__TPAMI 2024__] [Weakly Supervised Tracklet Association Learning With Video Labels for Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/10371780)  
   Min Liu, __Yuan Bian__, Qing Liu, Xueping Wang, Yaonan Wang. (__First student author__)
-- [__TMM 2024__] [Occlusion-Aware Feature Recover Model for Occluded Person Re-Identification](https://ieeexplore.ieee.org/document/10314802)
+  
+- [__TMM 2024__] [Occlusion-Aware Feature Recover Model for Occluded Person Re-Identification](https://ieeexplore.ieee.org/document/10314802)  
   __Yuan Bian__,  Min Liu, Xueping Wang, Yi Tang, Yaonan Wang.
-- [__TMM 2024__] [Cross-modality Semantic Consistency Learning for Visible-Infrared Person Re-Identification](https://ieeexplore.ieee.org/document/10812860)
-  Min Liu, Zhu Zhang, __Yuan Bian__, Xueping Wang, Yeqing Sun, BaidaZhang, Yaonan Wang. (__Corresponding author__)
-- [__TIM 2024__] [Pose-Guided Modality-Invariant Feature Alignment for Visible–Infrared Object Re-Identification](https://ieeexplore.ieee.org/document/10490225)
-  Min Liu, Yeqing Sun, Xueping Wang, __Yuan Bian__, Zhu Zhang, BaidaZhang, Yaonan Wang. (__Corresponding author__)
-- **[TPAMI 2024]** [Weakly Supervised Tracklet Association Learning With Video Labels for Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/10371780)  
-  Min Liu, **Yuan Bian**, Qing Liu, Xueping Wang, Yaonan Wang. *(First student author)*
+  
+- [__TMM 2024__] [Cross-modality Semantic Consistency Learning for Visible-Infrared Person Re-Identification](https://ieeexplore.ieee.org/document/10812860)  
+  Min Liu, Zhu Zhang, __Yuan Bian__, Xueping Wang, etal. (__Corresponding author__)
+  
+- [__TIM 2024__] [Pose-Guided Modality-Invariant Feature Alignment for Visible–Infrared Object Re-Identification](https://ieeexplore.ieee.org/document/10490225)  
+  Min Liu, Yeqing Sun, Xueping Wang, __Yuan Bian__, etal. (__Corresponding author__)
 
-- **[TMM 2024]** [Occlusion-Aware Feature Recover Model for Occluded Person Re-Identification](https://ieeexplore.ieee.org/document/10314802)  
-  **Yuan Bian**, Min Liu, Xueping Wang, Yi Tang, Yaonan Wang.
-
-- **[TMM 2024]** [Cross-modality Semantic Consistency Learning for Visible-Infrared Person Re-Identification](https://ieeexplore.ieee.org/document/10812860)  
-  Min Liu, Zhu Zhang, **Yuan Bian**, Xueping Wang, Yeqing Sun, BaidaZhang, Yaonan Wang. *(Corresponding author)*
-
-- **[TIM 2024] [Pose-Guided Modality-Invariant Feature Alignment for Visible–Infrared Object Re-Identification](https://ieeexplore.ieee.org/document/10490225)**  
-  Min Liu, Yeqing Sun, Xueping Wang, **Yuan Bian**, Zhu Zhang, BaidaZhang, Yaonan Wang. *(Corresponding author)*
 
 News
 ======
