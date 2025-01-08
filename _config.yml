@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "YuanBian"
+title                    : "YuanBian123"
 title_separator          : "-"
-name                     : "Yuan Bian"
-description              : "Hompepage "
+name                     : "Yuan Bian666"
+description              : "Hompepage789"
 url                      : https://yuanbiangit.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -29,7 +29,7 @@ author:
   location         : #"China"
   employer         : #"Hunan University | National Engineering Research Center of Robot Visual Perception and Control Technology"
   uri              : # URL
-  email            : "yuanbian AT hnu.edu.cn" 
+  email            : "yuanbian AT hnu.edu.cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
