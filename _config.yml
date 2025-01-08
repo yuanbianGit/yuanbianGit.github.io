@@ -27,7 +27,7 @@ author:
   bio              : "Hunan University | National Engineering Research Center of Robot Visual Perception and
 Control Technology"
   location         : #"China"
-  employer         : "Hunan University | National Engineering Research Center of Robot Visual Perception and
+  employer         : #"Hunan University | National Engineering Research Center of Robot Visual Perception and
 Control Technology"
   uri              : # URL
   email            : "yuanbian@hnu.edu.cn" 
