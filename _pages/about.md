@@ -22,6 +22,17 @@ Selected Publications
   Min Liu, Zhu Zhang, __Yuan Bian__, Xueping Wang, Yeqing Sun, BaidaZhang, Yaonan Wang. (__Corresponding author__)
 - [__TIM 2024__] [Pose-Guided Modality-Invariant Feature Alignment for Visible–Infrared Object Re-Identification](https://ieeexplore.ieee.org/document/10490225)
   Min Liu, Yeqing Sun, Xueping Wang, __Yuan Bian__, Zhu Zhang, BaidaZhang, Yaonan Wang. (__Corresponding author__)
+- **[TPAMI 2024]** [Weakly Supervised Tracklet Association Learning With Video Labels for Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/10371780)  
+  Min Liu, **Yuan Bian**, Qing Liu, Xueping Wang, Yaonan Wang. *(First student author)*
+
+- **[TMM 2024]** [Occlusion-Aware Feature Recover Model for Occluded Person Re-Identification](https://ieeexplore.ieee.org/document/10314802)  
+  **Yuan Bian**, Min Liu, Xueping Wang, Yi Tang, Yaonan Wang.
+
+- **[TMM 2024]** [Cross-modality Semantic Consistency Learning for Visible-Infrared Person Re-Identification](https://ieeexplore.ieee.org/document/10812860)  
+  Min Liu, Zhu Zhang, **Yuan Bian**, Xueping Wang, Yeqing Sun, BaidaZhang, Yaonan Wang. *(Corresponding author)*
+
+- **[TIM 2024] [Pose-Guided Modality-Invariant Feature Alignment for Visible–Infrared Object Re-Identification](https://ieeexplore.ieee.org/document/10490225)**  
+  Min Liu, Yeqing Sun, Xueping Wang, **Yuan Bian**, Zhu Zhang, BaidaZhang, Yaonan Wang. *(Corresponding author)*
 
 News
 ======
