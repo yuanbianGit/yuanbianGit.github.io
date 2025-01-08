@@ -26,6 +26,10 @@ Selected Publications
 - [__TIM 2024__] [Pose-Guided Modality-Invariant Feature Alignment for Visible–Infrared Object Re-Identification](https://ieeexplore.ieee.org/document/10490225)  
   Min Liu, Yeqing Sun, Xueping Wang, __Yuan Bian__, etal. (__Co-Corresponding author__)
 
+Preprint
+======
+- [Learning to Learn Transferable Generative Attack for Person Re-Identification](https://arxiv.org/abs/2409.04208)  
+  __Yuan Bian__, Min Liu, Xueping Wang, Yunfeng Ma, Yaonan Wang
 
 News
 ======
