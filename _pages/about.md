@@ -37,6 +37,12 @@ Academic Services
 - Conference Reviewer: ECCV22, CVPR22&24, AAAI24
 - Teaching Assistant of Engineering Design, 2023
 - Leader of the USTB Smart Car Team, 2017
+  
+Education
+======
+- 2021.06 - now, Hunan University
+- 2018.09 - 2021.06, Beihang University
+- 2014.09 - 2018.06, University of Science and Technology Beijing
 
 Honors and Awards
 ======
