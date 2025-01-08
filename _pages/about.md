@@ -12,7 +12,12 @@ Hi. I am currently in the fourth year of my Ph.D. studies at the Hunan Universit
 - Adversarial Attack
 - Vision Language Models
 
-
+Publications
+======
+- [TPAMI 2024] [Weakly Supervised Tracklet Association Learning With Video Labels for Person Re-Identification] https://ieeexplore.ieee.org/abstract/document/10371780)
+  Min Liu, __Yuan Bian__, Qing Liu, Xueping Wang, Yaonan Wang. (First student author)
+- [TMM 2024] [Occlusion-Aware Feature Recover Model for Occluded Person Re-Identification](https://ieeexplore.ieee.org/document/10314802)
+  __Yuan Bian__,  Min Liu, Xueping Wang, Yi Tang, Yaonan Wang.
 
 News
 ======
