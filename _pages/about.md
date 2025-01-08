@@ -24,7 +24,7 @@ Selected Publications
   Min Liu, Zhu Zhang, __Yuan Bian__, Xueping Wang, etal. (__Corresponding author__)
   
 - [__TIM 2024__] [Pose-Guided Modality-Invariant Feature Alignment for Visible–Infrared Object Re-Identification](https://ieeexplore.ieee.org/document/10490225)  
-  Min Liu, Yeqing Sun, Xueping Wang, __Yuan Bian__, etal. (__Corresponding author__)
+  Min Liu, Yeqing Sun, Xueping Wang, __Yuan Bian__, etal. (__Co-Corresponding author__)
 
 
 News
