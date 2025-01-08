@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi. I am currently in the fourth year of my Ph.D. studies at the Hunan University under the supervision of Prof. [Yaonan Wang](http://eeit.hnu.edu.cn/info/1277/4490.htm) and Pro. [Min Liu](http://eeit.hnu.edu.cn/info/1291/5218.htm).
+Hi. I am currently in the fourth year of my Ph.D. studies at the Hunan University under the supervision of Prof. [Yaonan Wang](http://eeit.hnu.edu.cn/info/1277/4490.htm) and Pro. [Min Liu](http://eeit.hnu.edu.cn/info/1291/5218.htm). Most recently, I am interested in the following topics:
+- Image Retrieval
+- Adversarial Attack
+- Vision Language Models
+
 
 
 News
