@@ -19,7 +19,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding: 1em 0em 0em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -52,7 +52,7 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 0.5em;
+    padding-right: 2em;
     font-weight: 700;
   }
 }
