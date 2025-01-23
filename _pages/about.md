@@ -30,7 +30,10 @@ Preprint
 ======
 - [Learning to Learn Transferable Generative Attack for Person Re-Identification](https://arxiv.org/abs/2409.04208)  
   __Yuan Bian__, Min Liu, Xueping Wang, Yunfeng Ma, Yaonan Wang
-
+  
+- [Modality Unified Attack for Omni-Modality Person Re-Identification](https://arxiv.org/abs/2501.12761)  
+  __Yuan Bian__, Min Liu, Yunqi Yi, Xueping Wang, Yunfeng Ma, Yaonan Wang
+  
 Academic Services
 ======
 - Journal Reviewer: IEEE TNNLS, IEEE TMM, IEEE TIFS, IEEE TIM, IEEE/CAA JAS
