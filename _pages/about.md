@@ -40,7 +40,7 @@ Preprint
 Academic Services
 ======
 - Journal Reviewer: IEEE TNNLS, IEEE TMM, IEEE TIFS, IEEE TIM, IEEE/CAA JAS
-- Conference Reviewer: ECCV22, CVPR22&24, AAAI24
+- Conference Reviewer: ECCV22, CVPR24&25, AAAI24
 - Teaching Assistant of Engineering Design, 2023
 - Leader of the USTB Smart Car Team, 2017
   
