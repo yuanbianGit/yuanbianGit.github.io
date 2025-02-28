@@ -33,7 +33,10 @@ Preprint
   
 - [Modality Unified Attack for Omni-Modality Person Re-Identification](https://arxiv.org/abs/2501.12761)  
   __Yuan Bian__, Min Liu, Yunqi Yi, Xueping Wang, Yunfeng Ma, Yaonan Wang
-  
+
+- [Prompt-Driven Contrastive Learning for Transferable Adversarial Attacks](https://arxiv.org/abs/2502.19697)  
+  __Yuan Bian__, Min Liu, Yunqi Yi, Xueping Wang, Yaonan Wang
+
 Academic Services
 ======
 - Journal Reviewer: IEEE TNNLS, IEEE TMM, IEEE TIFS, IEEE TIM, IEEE/CAA JAS
