@@ -21,7 +21,7 @@ Selected Publications
 - [__TIP 2025__][Learning to Learn Transferable Generative Attack for Person Re-Identification](https://ieeexplore.ieee.org/document/10964070)
   __Yuan Bian__, Min Liu, Xueping Wang, Yunfeng Ma, Yaonan Wang
 
-- [__TIFS 2025__][Modality Unified Attack for Omni-Modality Person Re-Identification](https://arxiv.org/abs/2501.12761](https://ieeexplore.ieee.org/document/10985912)  
+- [__TIFS 2025__][Modality Unified Attack for Omni-Modality Person Re-Identification](https://ieeexplore.ieee.org/document/10985912)  
   __Yuan Bian__, Min Liu, Yunqi Yi, Xueping Wang, Yunfeng Ma, Yaonan Wang
   
 - [__TMM 2024__] [Occlusion-Aware Feature Recover Model for Occluded Person Re-Identification](https://ieeexplore.ieee.org/document/10314802)  
