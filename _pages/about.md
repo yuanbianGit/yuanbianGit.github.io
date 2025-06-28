@@ -31,10 +31,10 @@ Selected Publications
   __Yuan Bian__,  Min Liu, Xueping Wang, Yi Tang, Yaonan Wang.
   
 - [__TMM 2024__] [Cross-modality Semantic Consistency Learning for Visible-Infrared Person Re-Identification](https://ieeexplore.ieee.org/document/10812860)  
-  Min Liu, Zhu Zhang, __Yuan Bian__, Xueping Wang, etal. (__Corresponding author__)
+  Min Liu, Zhu Zhang, __Yuan Bian__(__Corresponding author__), Xueping Wang, etal. 
   
 - [__TIM 2024__] [Pose-Guided Modality-Invariant Feature Alignment for Visible–Infrared Object Re-Identification](https://ieeexplore.ieee.org/document/10490225)  
-  Min Liu, Yeqing Sun, Xueping Wang, __Yuan Bian__, etal. (__Co-Corresponding author__)
+  Min Liu, Yeqing Sun, Xueping Wang, __Yuan Bian__(__Corresponding author__), etal.
 
 
 Academic Services
