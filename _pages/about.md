@@ -16,7 +16,10 @@ Hi. I am currently in the fourth year of my Ph.D. studies at the Hunan Universit
 Selected Publications
 ======
 - [__TPAMI 2024__] [Weakly Supervised Tracklet Association Learning With Video Labels for Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/10371780)  
-  Min Liu, __Yuan Bian__, Qing Liu, Xueping Wang, Yaonan Wang. (__First student author__)
+  Min Liu, __Yuan Bian__(__First student author__), Qing Liu, Xueping Wang, Yaonan Wang. 
+
+- [__ICCV 2025__] [Prompt-driven Transferable Adversarial Attack on Person Re-Identification with Attribute-aware Textual Inversion](https://arxiv.org/abs/2502.19697)  
+  __Yuan Bian__, Min Liu, Yunqi Yi, Xueping Wang, Yaonan Wang
 
 - [__TIP 2025__][Learning to Learn Transferable Generative Attack for Person Re-Identification](https://ieeexplore.ieee.org/document/10964070)
   __Yuan Bian__, Min Liu, Xueping Wang, Yunfeng Ma, Yaonan Wang
@@ -33,13 +36,6 @@ Selected Publications
 - [__TIM 2024__] [Pose-Guided Modality-Invariant Feature Alignment for Visible–Infrared Object Re-Identification](https://ieeexplore.ieee.org/document/10490225)  
   Min Liu, Yeqing Sun, Xueping Wang, __Yuan Bian__, etal. (__Co-Corresponding author__)
 
-Preprint
-======
-  
-
-
-- [Prompt-driven Transferable Adversarial Attack on Person Re-Identification with Attribute-aware Textual Inversion](https://arxiv.org/abs/2502.19697)  
-  __Yuan Bian__, Min Liu, Yunqi Yi, Xueping Wang, Yaonan Wang
 
 Academic Services
 ======
